@@ -1,0 +1,8 @@
+Package: Saisaran17
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Sai Saran
+Description: This function will take a number as input and returns the sum of n numbers
+Encoding: UTF-8
+LazyData: true
